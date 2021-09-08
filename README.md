@@ -13,7 +13,6 @@
 ## BẢNG MỤC LỤC
 * [Giới thiệu môn học](#giới-thiệu-môn-học)
 * [Thành viên nhóm](#thành-viên-nhóm)
-* [Đồ án cuối kỳ](#đồ-án-cuối-kỳ)
 
 ## GIỚI THIỆU MÔN HỌC
 * **Tên môn học:** MÁY HỌC - MACHINE LEARNING
@@ -31,3 +30,4 @@
 | STT | Họ tên | MSSV | Vai trò | Email | Github | Facebook |
 | :---: | --- | --- | --- | --- | --- | --- |
 | 1 | Vũ Quốc Minh Đăng | 19520448 | Nhóm trưởng | *19520448@gm.uit.edu.vn* | [twelcone](https://github.com/twelcone) | [dangvu2k1](https://www.facebook.com/dangvu2k1) |
+| 2 | Bùi Thị Bích Hậu | 19521483 | Thành viên | *19521483@gm.uit.edu.vn* | [haunl.bich](https://github.com/haunl.bich) |  |
