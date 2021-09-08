@@ -30,4 +30,5 @@
 | STT | Họ tên | MSSV | Vai trò | Email | Github | Facebook |
 | :---: | --- | --- | --- | --- | --- | --- |
 | 1 | Vũ Quốc Minh Đăng | 19520448 | Nhóm trưởng | *19520448@gm.uit.edu.vn* | [twelcone](https://github.com/twelcone) | [dangvu2k1](https://www.facebook.com/dangvu2k1) |
-| 2 | Bùi Thị Bích Hậu | 19521483 | Thành viên | *19521483@gm.uit.edu.vn* | [haunl.bich](https://github.com/haunl.bich) |  |
+| 2 | Bùi Thị Bích Hậu | 19521483 | Thành viên | *19521483@gm.uit.edu.vn* |  | [haunl.bich](https://github.com/haunl.bich) |
+| 3 | Phạm Nguyễn Thanh Hà | 19521458 | Thành viên | *19521458@gm.uit.edu.vn* |  |  |
