@@ -17,8 +17,8 @@
 ## GIỚI THIỆU MÔN HỌC
 * **Tên môn học:** MÁY HỌC - MACHINE LEARNING
 * **Mã môn học:** CS114
-* **Mã lớp:** CS114.L21
-* **Năm học:** HK2 (2020 - 2021)
+* **Mã lớp:** CS114.M21.KHCL
+* **Năm học:** HK1 (2021 - 2022)
 * **Giảng viên:**
  
 | STT | Họ tên | Email |
