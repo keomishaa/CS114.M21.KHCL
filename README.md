@@ -6,7 +6,7 @@
 </p>
 
 <!-- Title -->
-<h1 align="center"><b>CS114.L21 - MÁY HỌC - MACHINE LEARNING</b></h1>
+<h1 align="center"><b>CS114.M21.KHCL - MÁY HỌC</b></h1>
 
 <!-- Main -->
 
